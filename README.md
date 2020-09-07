@@ -1,4 +1,4 @@
-### Hi there, I'm Cameron 👋 <img src="C:\Users\Cameron\Downloads\bitmoji.jpg"></img>
+### Hi there, I'm Cameron 👋 
 
 <!--
 **Nepcam/Nepcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
