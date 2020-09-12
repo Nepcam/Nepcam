@@ -1,4 +1,6 @@
 ### Hi there, I'm Cameron 👋 
+Self taught, Bootcamp Graduate and now I am a University Student studying to become articulate in the arena of Software Engineering.
+
 
 <!--
 **Nepcam/Nepcam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
