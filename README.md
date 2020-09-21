@@ -1,5 +1,5 @@
 ### Hi there, I'm Cameron 👋 
-Self taught, Bootcamp Graduate and now I am a University Student studying to become articulate in the arena of Software Engineering.
+Self taught, Enspiral Dev Academy Bootcamp Graduate and now, a Universityof Waikato Student studying to be a scientist.
 
 
 <!--
