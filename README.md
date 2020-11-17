@@ -1,5 +1,5 @@
 ### Hi there, I'm Cameron 👋 
-Self taught, Enspiral Dev Academy Bootcamp Graduate and now, a University of Waikato Student studying to be a scientist.
+Self taught, Enspiral Dev Academy Bootcamp Graduate and now, a University of Waikato Student.
 
 
 <!--
@@ -7,8 +7,8 @@ Self taught, Enspiral Dev Academy Bootcamp Graduate and now, a University of Wai
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on learning C# through Unity
+- 🌱 I’m currently learning C# through Unity
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
