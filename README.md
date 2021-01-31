@@ -1,5 +1,5 @@
 ### Hi there, I'm Cameron 👋 
-Self taught, Enspiral Dev Academy Bootcamp Graduate and now, a University of Waikato Student.
+Self taught, Enspiral Dev Academy Bootcamp Graduate and now, a University of Waikato Student
 
 
 <!--
