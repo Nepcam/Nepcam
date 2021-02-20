@@ -1,5 +1,4 @@
 ### Here is what I'm working on! 👋 
-Self taught, Enspiral Dev Academy Bootcamp Graduate. Working through Mission Ready HQ Tech Accelerator.
 
 - 🔭 I’m currently working on ... MERN Stack
 - 🌱 I’m currently learning ... AWS Azure Cloud technology, Te Reo Māori
