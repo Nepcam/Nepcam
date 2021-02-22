@@ -7,5 +7,5 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... cameron.nepe@gmail.com
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love going on treks
+- ⚡ Fun fact: ... I love Waka Ama
 
