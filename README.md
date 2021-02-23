@@ -8,6 +8,5 @@
 - 📫 How to reach me: ... cameron.nepe@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Waka Ama
-
-Link to Portfolio: https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html
+- :briefcase: Link to Portfolio: https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html 
 
