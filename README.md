@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
 - :earth_asia: Portfolio: ... https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html
  
-
+![GitHub User's stars](https://img.shields.io/github/stars/Nepcam?style=social)
 
 ![GitHub followers](https://img.shields.io/github/followers/Nepcam?style=social)   
 
