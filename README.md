@@ -1,5 +1,7 @@
 ### Here is what I'm working on! 👋 
 
+https://img.shields.io/badge/<CSharp>-<C# .NET>-<success>
+
 - 🔭 I’m currently working on ... My JavaScript skills
 - 🌱 I’m currently learning ... Cloud-based AI Services
 - 👯 I’m looking to collaborate on ... Cloud-based AI Services
