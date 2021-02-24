@@ -20,9 +20,7 @@ function mihi() {
 - 📫 How to reach me: 
   - :email: cameron.nepe@gmail.com 
   - :telephone: +64-22-370-4618
- 
-![GitHub User's stars](https://img.shields.io/github/stars/Nepcam?style=social)
 
-![GitHub followers](https://img.shields.io/github/followers/Nepcam?style=social)   
+![Alt Text](https://github-readme-stats.vercel.app/api?username=Nepcam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
-![npm](https://img.shields.io/npm/v/npm)
+
