@@ -6,7 +6,6 @@ function mihi() {
  fetch("Tēnā koutou katoa Ko Cameron tōku ingoa")
   .then(Ko Rongowhakaata, Ngāti Porou, Tainui ōku iwi")
 }
-
 ```
 
 ### Here is what I'm working on! 👋  
