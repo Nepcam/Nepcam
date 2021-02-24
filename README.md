@@ -1,6 +1,6 @@
 ### Here is what I'm working on! 👋 
 
-https://img.shields.io/badge/<CSharp>-<C# .NET>-<success>
+![npm](https://img.shields.io/npm/v/npm)
 
 - 🔭 I’m currently working on ... My JavaScript skills
 - 🌱 I’m currently learning ... Cloud-based AI Services
