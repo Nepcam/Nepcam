@@ -3,7 +3,7 @@
 
 - :construction: I’m currently working on ... My JavaScript skills
 - 🌱 I’m currently learning ... Cloud-based AI Services
-- 👯 I’m looking to collaborate on ... Cloud-based AI Services
+- :cloud: I’m looking to collaborate on ... Cloud-based AI Services
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... :incoming_envelope: cameron.nepe@gmail.com :telephone: +64-22-370-4618
 - 😄 Pronouns: ... He/Him
