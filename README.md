@@ -10,7 +10,7 @@
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
  
 
-![Website](https://img.shields.io/website?up_message=Portfolio&url=https%3A%2F%2Fnepcam-portfolio.s3-ap-southeast-2.amazonaws.com%2FMyWebsite%2Findex.html) 
+![Website](https://img.shields.io/website?up_message=Portfolio&url=https%3A%2F%2Fnepcam-portfolio.s3-ap-southeast-2.amazonaws.com%2FMyWebsite%2Findex.html)  https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html
 
 ![GitHub followers](https://img.shields.io/github/followers/Nepcam?style=social)   
 
