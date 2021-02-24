@@ -1,5 +1,16 @@
+### Ehara taku toa, he takitahi, he toa takitini
+#### My success should not be bestowed onto me alone, as it was not individual success but success of a collective
+
+```
+function mihi() {
+ fetch("Tēnā koutou katoa Ko Cameron tōku ingoa")
+  .then(Ko Rongowhakaata, Ngāti Porou, Tainui ōku iwi")
+   .catch(noErr => console.log(noErr.message));
+}
+
+```
+
 ### Here is what I'm working on! 👋  
-:octocat: 
 
 - :construction: I’m currently working on ... My JavaScript skills
 - 🌱 I’m currently learning ... Cloud-based AI Services
