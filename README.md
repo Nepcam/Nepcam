@@ -7,6 +7,6 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... *email: cameron.nepe@gmail.com *phone: +64-22-370-4618
 - 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I love Waka Ama and Hiking
+- ⚡ Fun fact: ... I love Waka Ama and Reading
 - :briefcase: Link to Portfolio: ... https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html 
 
