@@ -5,7 +5,6 @@
 function mihi() {
  fetch("Tēnā koutou katoa Ko Cameron tōku ingoa")
   .then(Ko Rongowhakaata, Ngāti Porou, Tainui ōku iwi")
-   .catch(noErr => console.log(noErr.message));
 }
 
 ```
