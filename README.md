@@ -8,9 +8,9 @@
 - 📫 How to reach me: ... :incoming_envelope: cameron.nepe@gmail.com :telephone: +64-22-370-4618
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
+- :earth_asia: Portfolio: ... https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html
  
 
-![Website](https://img.shields.io/website?up_message=Portfolio&url=https%3A%2F%2Fnepcam-portfolio.s3-ap-southeast-2.amazonaws.com%2FMyWebsite%2Findex.html)  https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html
 
 ![GitHub followers](https://img.shields.io/github/followers/Nepcam?style=social)   
 
