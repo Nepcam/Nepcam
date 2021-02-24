@@ -18,8 +18,8 @@ function mihi() {
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
 - :earth_asia: Portfolio: ... https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html
 - 📫 How to reach me: 
-          :email: cameron.nepe@gmail.com 
-          :telephone: +64-22-370-4618
+  - :email: cameron.nepe@gmail.com 
+  - :telephone: +64-22-370-4618
  
 ![GitHub User's stars](https://img.shields.io/github/stars/Nepcam?style=social)
 
