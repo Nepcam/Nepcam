@@ -1,7 +1,5 @@
 ### Here is what I'm working on! 👋 
 
-![npm](https://img.shields.io/npm/v/npm)
-
 - 🔭 I’m currently working on ... My JavaScript skills
 - 🌱 I’m currently learning ... Cloud-based AI Services
 - 👯 I’m looking to collaborate on ... Cloud-based AI Services
@@ -12,3 +10,4 @@
 - ⚡ Fun fact: ... I love Waka Ama and Reading
 - :briefcase: Link to Portfolio: ... https://nepcam-portfolio.s3-ap-southeast-2.amazonaws.com/MyWebsite/index.html 
 
+![GitHub followers](https://img.shields.io/github/followers/Nepcam?style=social) ![npm](https://img.shields.io/npm/v/npm)
