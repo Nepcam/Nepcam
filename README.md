@@ -10,8 +10,8 @@ function mihi() {
 
 ### Here is what I'm working on! 👋  
 
-- :construction: I’m currently working on ... My JavaScript skills
-- 🌱 I’m currently learning ... Cloud-based AI Services
+- :construction: I’m currently working on ... My PHP & JavaScript skills
+- 🌱 I’m currently learning ... Moodle Learning Management System (LMS)
 - :cloud: I’m looking to collaborate on ... Cloud-based AI Services
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
