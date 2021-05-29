@@ -1,5 +1,7 @@
-### Ehara taku toa, he takitahi, he toa takitini
-#### My success should not be bestowed onto me alone, as it was not individual success but success of a collective
+### Kaua e mate wheke mate ururoa
+#### Don't die like a octopus, die like a hammerhead shark
+
+Octopus are renown for their lack of resistance when being captured, however a hammerhead shark will fight bitterly to the end, to the point that when you fillet it fresh, its meat quivers. Don't give up, no matter how hard the struggle is!
 
 ```
 function mihi() {
