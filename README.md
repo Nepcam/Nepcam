@@ -12,9 +12,9 @@ function mihi() {
 
 ### Here is what I'm working on! 👋  
 
-- :construction: I’m currently working on ... My PHP & JavaScript skills
+- :construction: I’m currently working on ... My PHP, MySQL & JavaScript
 - 🌱 I’m currently learning ... Moodle Learning Management System (LMS)
-- :cloud: I’m looking to collaborate on ... Cloud-based AI Services
+- :cloud: I’m looking to collaborate on ... PHP, MySQL
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
