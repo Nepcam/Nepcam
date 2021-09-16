@@ -13,10 +13,7 @@ function mihi() {
 ### Here is what I'm working on! 👋  
 
 - :construction: I’m currently working on ... My PHP, MySQL & JavaScript
-- 🌱 I’m currently learning ... Moodle Learning Management System (LMS)
-- :cloud: I’m looking to collaborate on ... PHP, MySQL
-- 💬 Ask me about ... Anything
-- 😄 Pronouns: ... He/Him
+- 🌱 I’m currently learning ... Moodle Learning Management System (LMS) PHP, MySQL
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
 - 📫 How to reach me: 
   - :email: cameron.nepe@gmail.com 
