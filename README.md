@@ -6,7 +6,7 @@ Octopus are renown for their lack of resistance when being captured, however a h
 ```
 function mihi() {
  fetch("Tēnā koutou katoa Ko Cameron tōku ingoa")
-  .then(Ko Rongowhakaata, Ngāti Porou, Tainui ōku iwi")
+  .then("Nō Te Tairawhiti ki Tainui ahau")
 }
 ```
 
