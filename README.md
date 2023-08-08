@@ -1,12 +1,12 @@
 ### Kaua e mate wheke mate ururoa
-#### Don't die like a octopus, die like a hammerhead shark
+#### Don't die like an octopus, die like a hammerhead shark
 
-Octopus are renown for their lack of resistance when being captured, however a hammerhead shark will fight bitterly to the end, to the point that when you fillet it fresh, its meat quivers. Don't give up, no matter how hard the struggle is!
+Octopus are renowned for their lack of resistance when being captured, however, a hammerhead shark will fight bitterly to the end, to the point that when you fillet it fresh, its meat quivers. Don't give up, no matter how hard the struggle is!
 
 ```
 function mihi() {
  fetch("Tēnā koutou katoa Ko Cameron tōku ingoa")
-  .then("Nō Te Tairawhiti ki Tainui ahau")
+  .then("Nō Te Tairawhiti me Tainui, i tupu ake ahau ko Manutuke")
 }
 ```
 
