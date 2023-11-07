@@ -12,7 +12,7 @@ function mihi() {
 
 ### Here is what I'm working on! 👋  
 :construction: 
-- 🌱 I’m currently learning new stuff...MySQL, Power Bi, Dynamics 365, Python
+- 🌱 MySQL, Power Bi, Dynamics 365.
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
 - 📫 How to reach me: 
 - :email: cameron.nepe@gmail.com 
