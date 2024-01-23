@@ -14,9 +14,7 @@ function mihi() {
 :construction: 
 - 🌱 MySQL, Power Bi, Dynamics 365.
 - ⚡ Fun fact: ... I love Waka Ama :rowboat: and Reading :notebook_with_decorative_cover:
-- 📫 How to reach me: 
-- :email: cameron.nepe@gmail.com 
-- :telephone: +64-22-370-4618
+
 
 ![Alt Text](https://github-readme-stats.vercel.app/api?username=Nepcam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
